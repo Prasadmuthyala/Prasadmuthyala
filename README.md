@@ -10,13 +10,13 @@ I'm an **IT Professional** with a passion for developing scalable, secure, and h
 - Python | Java | JavaScript | SQL | Bash
 
 ### **Cloud Platforms**:
-- AWS 
+- AWS | Azure 
 
 ### **Databases**:
 - PostgreSQL | MySQL | Snowflake | Redshift
 
 ### **Big Data & Analytics**:
-- Hadoop | Apache Spark | Hive | Sqoop | AWS Services | Apache Kafka | Snowflake
+- Hadoop | Apache Spark | Hive | Sqoop | AWS Services | Azure Services | Apache Airflow | Snowflake
 
 ### **Version Control**:
 - Git | GitHub | GitLab
@@ -33,9 +33,9 @@ I'm an **IT Professional** with a passion for developing scalable, secure, and h
 
 ## 🔥 **Notable Projects**:
 
-- **[Reddit ETL Pipeline](https://github.com/Prasadmuthyala/Reddit-pipeline)**: A scalable **ETL solution** for processing **Reddit data** into **Amazon Redshift**.
+- **[Reddit ETL Pipeline (Apache Airflow + AWS + Snowflake) ](https://github.com/Prasadmuthyala/Reddit-pipeline)**: A scalable **ETL solution** for processing **Reddit data** into **Amazon Redshift**.
 
-- **[Exchange Rate Pipeline](https://github.com/Prasadmuthyala/exchange-rate-pipeline)**: A robust **ETL pipeline** designed to automate the process of fetching, transforming, and storing real-time **exchange rate data** from various global financial APIs into a **cloud-based database** for analytics and reporting.
+- **[Exchange Rate Pipeline (AWS + Snowflake) ](https://github.com/Prasadmuthyala/exchange-rate-pipeline)**: A robust **ETL pipeline** designed to automate the process of fetching, transforming, and storing real-time **exchange rate data** from various global financial APIs into a **cloud-based database** for analytics and reporting.
   
 ---
 
@@ -58,9 +58,9 @@ I'm always open to new opportunities, collaborations, and learning from other li
 
 ### 👨‍💻 **Skills in Action**:
 
-- **Cloud Infrastructure**: Architected and deployed applications on **AWS** using **EC2**, **S3**, **Lambda**, **Athena**, and **Redshift**.
-- **Data Engineering**: Built high-performance data pipelines with **Apache Airflow** and **AWS**.
-- **Automation**: Automated cloud infrastructure provisioning using **AWS** and **Big Data Tools** pipelines.
+- **Cloud Infrastructure**: Architected and deployed applications on **AWS** using **Glue**, **S3**, **Lambda**, **Athena**, **Redshift** and **More**.
+- **Data Engineering**: Built high-performance data pipelines with **Apache Airflow** , **Azure** and **AWS**.
+- **Automation**: Automated cloud infrastructure provisioning using **Azure** , **AWS** and **Big Data Tools** pipelines.
 
 ---
 
