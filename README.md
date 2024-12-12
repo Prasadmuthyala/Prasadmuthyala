@@ -33,7 +33,7 @@ I'm an **IT Professional** with a passion for developing scalable, secure, and h
 
 ## 🔥 **Notable Projects**:
 
-- **[Reddit ETL Pipeline (Apache Airflow + AWS + Snowflake) ](https://github.com/Prasadmuthyala/Reddit-pipeline)**: A scalable **ETL solution** for processing **Reddit data** into **Amazon Redshift**.
+- **[Reddit ETL Pipeline (Apache Airflow + AWS ) ](https://github.com/Prasadmuthyala/Reddit-pipeline)**: A scalable **ETL solution** for processing **Reddit data** into **Amazon Redshift**.
 
 - **[Exchange Rate Pipeline (AWS + Snowflake) ](https://github.com/Prasadmuthyala/exchange-rate-pipeline)**: A robust **ETL pipeline** designed to automate the process of fetching, transforming, and storing real-time **exchange rate data** from various global financial APIs into a **cloud-based database** for analytics and reporting.
   
