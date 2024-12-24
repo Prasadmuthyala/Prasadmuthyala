@@ -52,7 +52,7 @@ I'm always open to new opportunities, collaborations, and learning from other li
 ---
 
 ## 🛠 **Current Projects**:
-- Working on **[Project X](https://github.com/your-repo/project-x)**: A **cloud-based solution** to automate **data ingestion** and **analytics**. 
+- Working on **[End-to-End-AzureProject](https://github.com/your-repo/project-x)**: A **cloud-based solution** to automate **data ingestion** and **analytics**. 
 
 ---
 
