@@ -36,6 +36,7 @@ I'm an **IT Professional** with a passion for developing scalable, secure, and h
 - **[Reddit ETL Pipeline (Apache Airflow + AWS ) ](https://github.com/Prasadmuthyala/Reddit-pipeline)**: A scalable **ETL solution** for processing **Reddit data** into **Amazon Redshift**.
 
 - **[Exchange Rate Pipeline (AWS + Snowflake) ](https://github.com/Prasadmuthyala/exchange-rate-pipeline)**: A robust **ETL pipeline** designed to automate the process of fetching, transforming, and storing real-time **exchange rate data** from various global financial APIs into a **cloud-based database** for analytics and reporting.
+- **[End-to-End Azure Data Engineering Project](https://github.com/Prasadmuthyala/End-to-End-AzureProject)**: A comprehensive ETL pipeline built on **Azure Databricks**, **Azure Data Factory**, and **Azure Logic Apps** to process, transform, and store data from various sources (CSV, XLSX, JSON, PostgreSQL, APIs) using **Medallion Architecture** for structured and analytics-ready data.
   
 ---
 
@@ -52,7 +53,7 @@ I'm always open to new opportunities, collaborations, and learning from other li
 ---
 
 ## 🛠 **Current Projects**:
-- Working on **[End-to-End-AzureProject](https://github.com/your-repo/project-x)**: A **cloud-based solution** to automate **data ingestion** and **analytics**. 
+- Working on **[Project-X](https://github.com/your-repo/project-x)**: A **cloud-based solution** to automate **data ingestion** and **analytics**. 
 
 ---
 
