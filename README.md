@@ -40,7 +40,7 @@ I'm an **IT Professional** with a passion for developing scalable, secure, and h
 ---
 
 ## 📫 **Get in Touch**:
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile) 
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/prasad-muthyala/) 
 - **Email**: [muthyalaprasad1@gmail.com](mailto:muthyalaprasad1@gmail.com)
 
 ---
