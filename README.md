@@ -20,6 +20,9 @@ I'm an **IT Professional** with a passion for developing scalable, secure, and h
 
 ### **Version Control**:
 - Git | GitHub | GitLab
+  
+### **Tools**:
+- Salesforce
 
 ---
 
